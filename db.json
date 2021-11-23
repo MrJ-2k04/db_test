@@ -1,11 +1,17 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+ {
+   "Column 1": "A1",
+   "Column 2": "A2",
+   "Column 3": "A3"
+ },
+ {
+   "Column 1": "B1",
+   "Column 2": "B2",
+   "Column 3": "B3"
+ },
+ {
+   "Column 1": "C1",
+   "Column 2": "C2",
+   "Column 3": "C3"
+ }
+]
